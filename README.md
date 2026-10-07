@@ -1,7 +1,6 @@
 # XM4 Pilot
 
 A native SwiftUI menu-bar controller for Sony WH-1000XM4 headphones on macOS.
-Ported from [XM5 Control](https://github.com/Maadlou/xm5-control-macos) (MIT), with the protocol layer rewritten for the XM4's MDR v1 command set.
 
 ## Features
 
